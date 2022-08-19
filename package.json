@@ -1,0 +1,34 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog Grupo 1",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidleon2115/BlogG1.git"
+  },
+  "keywords": [
+    "Node",
+    "TypeScript",
+    "Express",
+    "Redis"
+  ],
+  "author": "David Leon, Daniel Olaya, Cristian Moreno, Simon Hernandez, Yerson Galvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidleon2115/BlogG1/issues"
+  },
+  "homepage": "https://github.com/davidleon2115/BlogG1#readme",
+  "dependencies": {
+    "express": "4.18.1",
+    "redis": "4.2.0",
+    "typescript": "4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
